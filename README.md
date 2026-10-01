@@ -27,7 +27,7 @@ Google Translate:
 
 Link to UserStyles.world:https://userstyles.world/style/8923/anime-wallpaper-google
 
-1. Install the Stylus extension in a web browser (e.g., Firefo
+1. Install the Stylus extension in a web browser (e.g., Firefox
 2. Click the link above that takes you to UserStyles.world Anime Wallpaper.
 3. Click on "Install".
 
